@@ -23,11 +23,6 @@ I developed it folowing an <a href="https://blog.miguelgrinberg.com/post/the-fla
 * Search posts by its content
 * Private messages between users (With notifications)
 
-<br>
-
-<img src="https://github.com/IgorShimun/microblog/blob/main/microblog.png" alt="" style="border: 5px solid black;" />
-
-<br>
 
 ## :hammer: Instalation steps
 
