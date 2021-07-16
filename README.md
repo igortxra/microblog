@@ -2,7 +2,7 @@
 This project, as the name sugest, its a little blog. 
 I developed it folowing an <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world" target="_blank">tutorial</a> to learn Flask.
 
-:point_right: <a href="https://microblog-byshimun.herokuapp.com/"> See this application working </a> on Heroku. :point_left:   
+:point_right: <a href="https://microblog-bytrunk.herokuapp.com"> See this application working </a> on Heroku. :point_left:   
 
 ## :scroll: Microblog has:
 * Users subsystem that allows users login and logout
