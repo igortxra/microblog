@@ -2,14 +2,7 @@
 This project, as the name sugest, its a little blog. 
 I developed it folowing an <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world" target="_blank">tutorial</a> to learn Flask.
 
-<p>
-  <img src="https://img.shields.io/docker/automated/igorshimun/microblog" alt=""/> 
-  <img src="https://img.shields.io/github/last-commit/igorshimun/microblog" alt=""/>
-</p>
-
-:point_right: <a href="https://microblog-byshimun.herokuapp.com/"> See this application working </a> on Heroku. :point_left: 
-<br>
-:point_right: <a href="https://hub.docker.com/r/igorshimun/microblog"> Docker Hub Repository </a> :point_left:   
+:point_right: <a href="https://microblog-byshimun.herokuapp.com/"> See this application working </a> on Heroku. :point_left:   
 
 ## :scroll: Microblog has:
 * Users subsystem that allows users login and logout
